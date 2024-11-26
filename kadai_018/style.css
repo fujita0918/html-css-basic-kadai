@@ -49,9 +49,10 @@
     background-color: #87ceeb;
 }
 #bottom {
+    position: static;
     width: 800px;
     height: 300px;
-    margin: 0 auto;
+    margin: 20px 0;
     background-color: #87ceeb;
 }
 #bottom-child01{
